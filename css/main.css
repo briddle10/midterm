@@ -11,3 +11,31 @@ li{
     background-color: brown;
     color: white;
 }
+
+a:link{
+    color:white;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color: grey;
+}
+
+a:active{
+    color: grey;
+}
+
+a{
+    text-decoration: none;
+}
+
+.serif{
+    font-family: 'Slabo 27px', serif;
+}
+
+.sans-serif{
+    font-family: 'Oswald', sans-serif;
+}
