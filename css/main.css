@@ -6,12 +6,14 @@ ul{
     margin-left: 10px;
     background-color: cornflowerblue;
     font-size: 72px;
+    line-height: 82px;
 }
 
 li{
     background-color: brown;
     color: white;
     font-size: 72px;
+    line-height: 82px;
 }
 
 a:link{
@@ -32,6 +34,8 @@ a:active{
 
 a{
     text-decoration: none;
+    font-size: 72px;
+    line-height: 82px;
 }
 
 .serif{
