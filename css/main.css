@@ -2,14 +2,18 @@
     margin: 0;
 }
 
-ul{
-    margin-left: 10px;
+div{
     background-color: cornflowerblue;
+}
+
+ul{
+    margin-left: 20px;
     font-size: 72px;
     line-height: 82px;
 }
 
 li{
+    padding: 20px;
     background-color: brown;
     color: white;
     font-size: 72px;
@@ -44,4 +48,30 @@ a{
 
 .sans-serif{
     font-family: 'Oswald', sans-serif;
+}
+
+span{
+    float: right;
+    font-size: 48px;
+}
+
+
+
+section{
+    margin: 10px 10%;
+    text-align: center;
+}
+
+img{
+    display: inline-block;
+    width: 400px;
+    padding: 10px;
+    border: 2px dashed black;
+}
+
+#end{
+    display: inline-block;
+    font-size: 32px;
+    font-family: monospace;
+    color: black;
 }
