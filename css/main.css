@@ -50,9 +50,13 @@ a{
     font-family: 'Oswald', sans-serif;
 }
 
-span{
+p{
     float: right;
-    font-size: 48px;
+    font-size: 40px;
+    padding: 20px;
+    color: white;
+    line-height: 82px;
+    font-family: monospace;
 }
 
 
@@ -66,10 +70,11 @@ img{
     display: inline-block;
     width: 400px;
     padding: 10px;
-    border: 2px dashed black;
+    border: 5px dashed black;
 }
 
 #end{
+    padding-left: 10px;
     display: inline-block;
     font-size: 32px;
     font-family: monospace;
